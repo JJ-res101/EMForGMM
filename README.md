@@ -1,4 +1,4 @@
-# EM-For-GMM
+# EMForGMM
 ## Algorithm theory
 I won't explain the principle of theory of EM algorithm here. My main reference book is `"Pattern recognition and machine learning"`.
 
